@@ -12,4 +12,4 @@ Where a job is a simple Groovy script. It's possible to submit multiple jobs sim
 
 A simple Java test project is attached as well
 
-For more information, read the documentation at
+For more information, read the documentation at https://github.com/steghio/PlanMyGroove/blob/master/plan_my_groove_manual.pdf
