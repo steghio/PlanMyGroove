@@ -1,3 +1,7 @@
+V1.0.1.FINAL
+
+- added JUnit 4 test cases
+
 v1.0.0.FINAL
 
 - initial release
